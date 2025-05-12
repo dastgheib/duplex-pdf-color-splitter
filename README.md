@@ -49,12 +49,10 @@ pip install pymupdf
 1. **Clone the repository**:
 
    ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/pdf-color-splitter.git
+   cd pdf-color-splitter
    ```
 
-git clone [https://github.com/](https://github.com/)<your-username>/pdf-color-splitter.git
-cd pdf-color-splitter
-
-````
 
 2. **Install dependencies**:
 
